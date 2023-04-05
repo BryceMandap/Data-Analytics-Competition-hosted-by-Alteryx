@@ -1,6 +1,8 @@
 # Data Analytics Competition hosted by Alteryx - *3rd Place Award*
 View the Tableau Report Here: https://public.tableau.com/app/profile/bryce.mandap/viz/CompareyourVehiclesC02Emissions/Dashboard2
 
+![image](https://user-images.githubusercontent.com/129364286/230230974-82e4d1b0-0323-4875-ada5-997a8f0da3a0.png)
+
 ## Background Information
 The Alteryx competition held at their prestigious headquarters in Irvine, CA was a momentous occasion. In collaboration with esteemed Alteryx professionals, participants were given an exclusive glimpse into the inner workings of the Alteryx software, gaining insight into how this innovative tool can be harnessed to streamline data analysis and solve complex organizational problems with ease. The event provided an exceptional opportunity for talented students from various universities, including Cal Poly Pomona, Cal State Fullerton, and Cal State Long Beach, to demonstrate their analytical prowess and presentation skills in a competitive setting, honing their abilities and preparing them for future success in the industry. The event was a resounding success and a testament to the power of collaboration, innovation, and excellence.
   
