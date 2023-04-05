@@ -1,4 +1,4 @@
-# Data Analytics Competition hosted by Alteryx
+# Data Analytics Competition hosted by Alteryx - *3rd Place Award*
 View the Tableau Report Here: https://public.tableau.com/app/profile/bryce.mandap/viz/CompareyourVehiclesC02Emissions/Dashboard2
 
 ## Background Information
@@ -16,6 +16,13 @@ The provided from the US Department of Energy was a large dataset encompassing o
 - Employed a range of powerful functions including VLOOKUP, INDEX MATCH MATCH, and other aggregate functions to extract valuable insights from the dataset
 - Created a pivot table to provide a quick overview of the data, allowing us to identify key trends, patterns, and outliers more efficiently
 
-# Project Breakdown
+# Summary of Findings
+- There was a strong correltation with cars of the higher percetile of purchasing price having the worst impact on the Environment in respect to Co2 Emssions and Fuel Consumption
+- The top prospects were high-end luxury brands such as Bently and Rolls Royce
+- The lowest impact of barrels consumed would be brands such Honda and Toyota, both also receiving the avg lowest fuel consumption for gasoline vehicles
+- On Average, there has been an overtrend of an increase of total MPG, which is a successful sign of environmental efficiency across the majority of car manufacturers
+- EV and Hybrids being the obvious choices in terms of evironmental impacts, but the trade-off of conveinence was not discussed and can be further looked into
 
-## Results/Insights Found
+## Suggestions 
+Based off of our findings our team suggested to look for more affordable car brands manufactured from Toyota or Honda since they both have lower price point (less of risk of inveestent) and they also have the lowest fuel consumption compare to the market. 
+If you are investing into elecrtical engines/motors we would reccomoend investing into Hybrids
